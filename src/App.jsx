@@ -2,7 +2,7 @@ import React,{useState} from 'react'
 import Navbar from './components/Navbar'
 import About from './components/About'
 import { BrowserRouter as Router,Routes,Route } from 'react-router-dom'
-import Skills from './components/skills'
+import Skills from './components/Skills'
 import Projects from './components/Projects'
 import Contact from './components/Contact'
 import BeatLoader from "react-spinners/BeatLoader";
